@@ -1,5 +1,4 @@
 body {
-  text-align: center;
   background-color: white;
   margin: 0;
   padding: 0;
@@ -9,7 +8,7 @@ body {
 
 div.container {
   background-image: url('PlantBackground.jpg');
-  height: 675px;
+  height: 725px;
   margin: 0;
   padding: 0;
 }
