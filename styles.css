@@ -35,12 +35,12 @@ div {
 }
 
 h1 {
-  color: black;
+  color: white;
   font-weight: 700;
 }
 
 p {
-  color: black;
+  color: white;
 }
 
 ul {
@@ -50,17 +50,6 @@ ul {
   overflow: hidden;
   background-color: white;
 }
-
-
-li a {
-  display: block;
-  color: #c3c3c3;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 12px;
-  font-weight: 600;
-} */
 
 nav li a.active {
   color: black;
