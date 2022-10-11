@@ -15,6 +15,15 @@ div.container {
   flex-direction: column;
 }
 
+div.aboutbackground {
+  background-color: #88966a;
+  height: 750px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
 div.titletext {
   float:right;
   margin: 20px;
