@@ -46,10 +46,10 @@ li a:hover {
   background-color: #04AA6D;
 }
 
-.fa {
+fa {
   padding: 20px;
-  font-size: 50px;
-  width: 50px;
+  font-size: 100px;
+  width: 100px;
   text-align: center;
   text-decoration: none;
   color: white;
@@ -58,6 +58,6 @@ li a:hover {
 }
 
 /* Add a hover effect if you want */
-.fa:hover {
+fa:hover {
   opacity: 0.7;
 }
