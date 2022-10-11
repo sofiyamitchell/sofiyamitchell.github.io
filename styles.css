@@ -13,6 +13,10 @@ div.container {
   padding: 0;
 }
 
+div.text {
+  margin: 20px;
+}
+
 div.socialinks {
   position: absolute;
   bottom: 0px;
