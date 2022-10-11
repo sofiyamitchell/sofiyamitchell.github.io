@@ -14,7 +14,7 @@ body {
 
 div {
   background-image: url('PlantBackground.jpg');
-  height: 1000px;
+  height: 100%;
   background-color: blue; 
 }
 
