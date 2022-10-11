@@ -9,13 +9,17 @@ body {
   background-image: url('PlantBackground.jpg');
 }
 
+nav li {
+  display: inline;
+}
+
 nav li a{
-  align-items: center;
+  /* align-items: center;
   float: none;
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); */
   display: block;
   color: #c3c3c3;
   text-align: center;
@@ -50,9 +54,6 @@ ul {
   background-color: white;
 }
 
-/* nav li {
-  display: inline;
-}
 
 li a {
   display: block;
