@@ -31,7 +31,7 @@ ul {
 }
 
 li {
-  float: left;
+  display: inline;
 }
 
 li a {
@@ -44,7 +44,6 @@ li a {
   font-weight: 600;
 }
 
-/* Change the link color to #111 (black) on hover */
 li a:hover {
   color: #333;
 }
