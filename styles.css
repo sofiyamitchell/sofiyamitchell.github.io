@@ -51,6 +51,8 @@ nav li a.active {
 h1 {
   color: white;
   font-weight: 900;
+  font-size: 85px;
+  margin-top:0px;
 }
 
 p {
@@ -82,4 +84,5 @@ ul {
   color: white;
   background: transparent;
 }
+
 
