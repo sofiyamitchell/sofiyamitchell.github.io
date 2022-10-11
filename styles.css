@@ -18,6 +18,10 @@ body {
   background-color: blue;
 }
 
+.text{
+  font-size: 50 px;
+}
+
 nav li {
   float: left;
 }
