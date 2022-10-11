@@ -29,6 +29,10 @@ nav li a:hover {
   color: #333;
 }
 
+nav li a.active {
+  color: black;
+}
+
 div {
   margin: 10px;
 }
@@ -48,11 +52,6 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: white;
-}
-
-nav li a.active {
-  color: black;
-  background-color: blue;
 }
 
 fa-github {
