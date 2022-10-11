@@ -38,6 +38,7 @@ nav li a:hover {
 
 nav li a.active {
   color: black;
+  background-color:darkseagreen;
 }
 
 h1 {
