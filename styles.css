@@ -33,11 +33,11 @@ nav li a{
 }
 
 nav li a:hover {
-  color: #333;
+  color: #45704d;
 }
 
 nav li a.active {
-  color: darkseagreen;
+  color: #45704d;
 }
 
 h1 {
