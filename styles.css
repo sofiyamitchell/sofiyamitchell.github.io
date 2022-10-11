@@ -13,6 +13,11 @@ div.container {
   padding: 0;
 }
 
+div.socialinks {
+  position: absolute;
+  bottom: 0px;
+}
+
 nav li {
   float: left;
 }
