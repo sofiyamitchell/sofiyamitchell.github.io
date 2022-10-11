@@ -4,10 +4,9 @@ body {
   padding: 0;
 }
 
-/* div {
-  width: 100vw;
-  height: 100vh;
-} */
+div {
+  margin: 10px;
+}
 
 h1 {
   color: white;
@@ -22,7 +21,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: grey;
+  background-color: white;
 }
 
 li {
