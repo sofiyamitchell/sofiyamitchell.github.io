@@ -8,7 +8,7 @@ body {
 
 div.homeBackground {
   /* background-image: url('PlantBackground.jpg'); */
-  background-color: rgb(33, 88, 10);
+  background-color: #2d5330;
   height: 750px;
   margin: 0;
   padding: 0;
@@ -26,7 +26,16 @@ div.aboutbackground {
 }
 
 div.resumebackground { 
-  background-color: #e7d0e4;
+  background-color: #fff0e9;
+  height: 750px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+div.projectsbackground {
+  background-color: #fff0e9;
   height: 750px;
   margin: 0;
   padding: 0;
