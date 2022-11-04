@@ -6,8 +6,9 @@ body {
   font-size: 22px;
 }
 
-div.container {
-  background-image: url('PlantBackground.jpg');
+div.homeBackground {
+  /* background-image: url('PlantBackground.jpg'); */
+  background-color: rgb(33, 88, 10);
   height: 750px;
   margin: 0;
   padding: 0;
