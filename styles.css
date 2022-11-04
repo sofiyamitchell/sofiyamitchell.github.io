@@ -33,6 +33,13 @@ div.resumebackground {
   flex-direction: column;
 }
 
+div.resumeImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
 div.titletext {
   float:right;
   margin: 20px;
