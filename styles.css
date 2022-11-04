@@ -7,7 +7,7 @@ body {
 }
 
 div.container {
-  background-image: url('PlantBackground2.jpg');
+  background-image: url('PlantBackground.jpg');
   height: 750px;
   margin: 0;
   padding: 0;
@@ -17,6 +17,15 @@ div.container {
 
 div.aboutbackground {
   background-color: #88966a;
+  height: 750px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+div.resumebackground { 
+  background-color: #e7d0e4;
   height: 750px;
   margin: 0;
   padding: 0;
